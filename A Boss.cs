@@ -12,10 +12,10 @@ public class Boss : MonoBehaviour
     public int HP;
     public Slider slider;
     public GameObject Effect;
-
+//HP関係
     public float chaseRange = 5.0f;
     public float speed = 6.0f;
-
+//playを探す範囲と攻撃の玉の速度
     private float shootTimer = 0.0f;
     public float shootInterval = 2.0f;
     public GameObject ProjectilePrefab;
@@ -23,7 +23,7 @@ public class Boss : MonoBehaviour
     private Vector2 currentPosition;
     private float upSpeed = 3f;
     public TextMeshProUGUI tmpro;
-    
+//攻撃の玉関連と逃げる関連    
 
     private Transform player;
 
