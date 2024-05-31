@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//ABossの玉
 public class birdstrike : MonoBehaviour
 {
     // Start is called before the first frame update
