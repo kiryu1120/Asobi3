@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Aplayの攻撃
 public class hanntei : MonoBehaviour
 {
     public float deleteTime = 1.0f;
