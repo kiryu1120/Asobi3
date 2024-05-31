@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//A playのEを押したときhanteiを出す処理
 public class kougeki : MonoBehaviour
 {
     // Start is called before the first frame update
