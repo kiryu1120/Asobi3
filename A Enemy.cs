@@ -43,6 +43,7 @@ public class Enemy : MonoBehaviour
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
+        //反転処理
     }
         private void OnTriggerEnter2D(Collider2D col)
     {
