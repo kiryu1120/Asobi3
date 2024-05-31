@@ -10,7 +10,6 @@ public class SBOSS : MonoBehaviour
     private float minX, maxX, minY, maxY;
     private Animator animator;
 
-
     public  Color newColor = Color.red;
     public enum ActionPattern
     {
