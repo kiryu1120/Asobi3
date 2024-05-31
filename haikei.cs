@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//シューティングやスタート画面の背景に使用
 public class haikei : MonoBehaviour
 {
     public float ScrollSpeed;
