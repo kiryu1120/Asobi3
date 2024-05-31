@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//S Playerの攻撃
 public class tamaDasu : MonoBehaviour
 {
     // Start is called before the first frame update
