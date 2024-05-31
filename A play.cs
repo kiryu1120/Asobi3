@@ -9,7 +9,7 @@ public class play : MonoBehaviour
     public int maxHP = 10;
     public int HP;
     public Slider slider;
-
+//HP関連
     public float moveSpeed = 5.0f; // 移動速度
     public float jumpForce = 5.0f; // ジャンプ力
     public float groundCheckRadius = 0.76f; // 地面判定の半径
@@ -26,7 +26,7 @@ public class play : MonoBehaviour
     public Color boostColor = Color.yellow; // ブースト中の色
     public float originalMoveSpeed;
     public float originalJumpForce;
-
+//Tを押したときの移動バフ関連
     private bool isBoosted = false;
     private float boostTimer = 0f;
     private float cooldownTimer = 0f;
