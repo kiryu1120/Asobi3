@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//アクションステージでA playに使用
 public class CameraFollow : MonoBehaviour
 {
     public Transform target; // フォローする対象（プレイヤーキャラクターなど）
